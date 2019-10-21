@@ -1,5 +1,5 @@
 # SonoffToolMac
- This is the same tool from: https://github.com/itead/Sonoff_Devices_DIY_Tools
+ This is the same tool from: [Github Pages](https://github.com/itead/Sonoff_Devices_DIY_Tools)
  Please refer to that repository for all the instructions. Here I will only document the MacOS specific instructions.
  
  You need Python 3.6 - This is what I have on my Mac
@@ -8,7 +8,7 @@
  
  1. The simplest being to just open the app like any normal app (double tap/click)
  2. If option 1 does not work, right click the app, then select "Show Package Contents"
-  a. Select Contents
-  b. Select MacOS
-  c. Open SonoffToolMac
+    - Select Contents
+    - Select MacOS
+    - Open SonoffToolMac
 
