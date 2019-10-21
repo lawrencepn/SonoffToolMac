@@ -1,0 +1,3 @@
+{
+    "files": ["main.py", "tool_01DIY85_ui.ui", "tcp_server.py", "lan_ewlink_api.py", "Dialog_text.py", "mdns.py"]
+}

@@ -1,0 +1,6 @@
+{
+    "app_name": "SonoffToolMac",
+    "author": "Lawrence Nyakiso",
+    "main_module": "src/main/python/main.py",
+    "version": "1.0.0"
+}
